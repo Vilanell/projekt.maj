@@ -1,7 +1,7 @@
 body {
     background-color: hotpink;
 };
-nav li {
+.nav li {
     display: inline;
     text-transform: uppercase;
     flex-direction: row;
