@@ -1,0 +1,22 @@
+body {
+    background-color: hotpink;
+};
+nav li {
+    display: inline;
+    text-transform: uppercase;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+
+
+}
+.nav-list-item {
+text-transform: uppercase;
+flex-direction: row;
+justify-content: space-around;
+display: inline;
+    text-transform: uppercase;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+}
